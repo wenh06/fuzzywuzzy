@@ -39,3 +39,5 @@ doc/aws_hostname.1
 .idea/
 
 .vscode
+
+.travis.yml
